@@ -4,6 +4,7 @@ Landing Page da LadSoft
 -----
 
 ## WIP ##
+Uma nova versão em ReactJS está sendo desenvolvida. 
 
 - [X] Versão Mobile 
 - [ ] Versão Desktop
